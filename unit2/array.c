@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int myArray[3]={5, 2, 3};
+    int myArray[3]={5 ,2, 3};
     int i = 0;
 
     printf("[");
